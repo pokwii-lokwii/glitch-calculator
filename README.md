@@ -13,4 +13,4 @@ A cyberpunk-style calculator with trippy visual effects
 ## How to Run
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/glitch-calculator.git
+   git clone https://github.com/pokwii-lokwii/glitch-calculator.git
