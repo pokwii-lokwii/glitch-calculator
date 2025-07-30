@@ -2,7 +2,7 @@
 
 A cyberpunk-style calculator with trippy visual effects
 
-![Screenshot](assets/screenshot.png)
+![Screenshot](assets/Screenshot.png)
 
 ## Features
 - Glowing neon interface
